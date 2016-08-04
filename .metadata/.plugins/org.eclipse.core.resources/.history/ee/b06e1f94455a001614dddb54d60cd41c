@@ -1,0 +1,15 @@
+package coreJavaTraining;
+
+public class Firstclass {
+	
+	static int a = 4;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int b = 100;
+		System.out.println("Hello World!");
+		System.out.println(a);
+		System.out.println(b);
+	}
+
+}

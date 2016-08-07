@@ -20,6 +20,7 @@ public class Firstclass {
 		Firstclass fn = new Firstclass();
 		fn.getData();
 		System.out.println(fn.a);
+		// comment from jenn laptop
 		
 		Secondclass sn = new Secondclass();
 		sn.setData();
